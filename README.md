@@ -14,6 +14,8 @@
 4.RoT: Enhancing Large Language Models with Reflection on Search Trees (https://arxiv.org/abs/2404.05449)
 5. Self-Refine: Iterative Refinement with Self-Feedback (https://arxiv.org/abs/2303.17651)
 6. CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing (https://arxiv.org/abs/2303.11366)
+7. Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation
+(https://arxiv.org/html/2404.10160v1)
 
 
  
