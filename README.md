@@ -4,7 +4,8 @@
 1. Reflection Agents (https://blog.langchain.dev/reflection-agents/)
 2. Reflexion (https://www.promptingguide.ai/techniques/reflexion)
 3. Can LLM critique and iterate over it's own outcome? (https://evjang.com/2023/03/26/self-reflection.html)
-4. Agentic Design Pattern - Reflexion (https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-2-reflection/) 
+4. Agentic Design Pattern - Reflexion (https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-2-reflection/)
+5. Introspective Agents: Performing Tasks With Reflection(https://docs.llamaindex.ai/en/latest/examples/agent/introspective_agent_toxicity_reduction/)
 
 ## LLM Reflexion related papers
 
