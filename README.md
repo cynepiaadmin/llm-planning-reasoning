@@ -6,6 +6,9 @@
 3. Can LLM critique and iterate over it's own outcome? (https://evjang.com/2023/03/26/self-reflection.html)
 4. Agentic Design Pattern - Reflexion (https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-2-reflection/)
 5. Introspective Agents: Performing Tasks With Reflection(https://docs.llamaindex.ai/en/latest/examples/agent/introspective_agent_toxicity_reduction/)
+6. Reinforcement Learning from Reflective Feedback (RLRF)(https://arxiv.org/abs/2403.14238)
+7. When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models (https://arxiv.org/abs/2404.09129)
+
 
 ## LLM Reflexion related papers
 
