@@ -29,6 +29,7 @@
 4. STaR: Self-Taught Reasoner(STaR) - Bootstrap Reasoning with Reasoning(https://arxiv.org/pdf/2203.14465)
 5. CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization(CLIN)(https://arxiv.org/abs/2310.10134)
 6. Self Discover(SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures)(https://arxiv.org/pdf/2402.03620)
+7. Control Theory for LLM Prompting (https://arxiv.org/abs/2310.04444)
 
 ## Others
 1. Microsoft GraphRAG (https://github.com/microsoft/graphrag)
