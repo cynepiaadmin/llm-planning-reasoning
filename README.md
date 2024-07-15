@@ -22,7 +22,18 @@
 (https://arxiv.org/html/2404.10160v1)
 
 
- 
+## Reasoning
+1. Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models(https://arxiv.org/abs/2406.04271)
+2. Graph of Thoughts(https://arxiv.org/abs/2308.09687)
+3. Monte Carlo Tree Search (MCTS)(https://arxiv.org/abs/2406.07394)
+4. STaR: Self-Taught Reasoner(STaR) - Bootstrap Reasoning with Reasoning(https://arxiv.org/pdf/2203.14465)
+5. CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization(CLIN)(https://arxiv.org/abs/2310.10134)
+6. Self Discover(SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures)(https://arxiv.org/pdf/2402.03620)
+
+## Others
+1. Microsoft GraphRAG (https://github.com/microsoft/graphrag)
+2. OpenAI Q* - (https://www.reuters.com/technology/artificial-intelligence/openai-working-new-reasoning-technology-under-code-name-strawberry-2024-07-12/)
+
 
 
 
