@@ -30,6 +30,7 @@
 5. CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization(CLIN)(https://arxiv.org/abs/2310.10134)
 6. Self Discover(SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures)(https://arxiv.org/pdf/2402.03620)
 7. Control Theory for LLM Prompting (https://arxiv.org/abs/2310.04444)
+8. Demystifying Chains, Trees, and Graphs of Thoughts(https://arxiv.org/html/2401.14295v3)
 
 ## Others
 1. Microsoft GraphRAG (https://github.com/microsoft/graphrag)
