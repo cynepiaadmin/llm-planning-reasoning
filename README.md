@@ -1,5 +1,5 @@
 # llm-reflexion
-## LLM Reflexion related blogs
+## LLM Planning related blogs
 
 1. Reflection Agents (https://blog.langchain.dev/reflection-agents/)
 2. Reflexion (https://www.promptingguide.ai/techniques/reflexion)
@@ -8,6 +8,9 @@
 5. Introspective Agents: Performing Tasks With Reflection(https://docs.llamaindex.ai/en/latest/examples/agent/introspective_agent_toxicity_reduction/)
 6. Reinforcement Learning from Reflective Feedback (RLRF)(https://arxiv.org/abs/2403.14238)
 7. When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models (https://arxiv.org/abs/2404.09129)
+8. Thought of Search: Planning with Language Models Through The Lens of Efficiency(https://arxiv.org/abs/2404.11833)
+9. Automating Thought of Search: A Journey Towards Soundness and Completeness(https://arxiv.org/abs/2408.11326)
+
 
 
 ## LLM Reflexion related papers
